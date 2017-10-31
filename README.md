@@ -9,7 +9,7 @@ Project complete video: https://vimeo.com/240650785
 <img src="readme_attachments/box-back.jpg" width="500">
 <img src="readme_attachments/wiring.jpg" class="rotate" width="500">
 <img src="readme_attachments/isometric.jpg" class="rotate" width="500">
-_can't figure out a good way of rotating the images here so tilt your head on the last too ;P_
+can't figure out a good way of rotating the images here so tilt your head on the last too ;P
 
 # Shopping list
 - [Adafruit Trinket M0](https://www.adafruit.com/product/3500)
