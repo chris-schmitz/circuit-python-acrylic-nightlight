@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="330.11mm" height="293.01mm" viewBox="0 0 935.75 830.57">
+  <title>Box and panel template</title>
+  <g id="Box">
+    <polygon points="439.88 464.89 439.88 436.55 425.71 436.55 425.71 429.46 418.62 429.46 418.62 415.29 390.28 415.29 390.28 429.46 145.71 429.46 145.71 415.29 117.36 415.29 117.36 429.46 110.27 429.46 110.27 436.55 96.1 436.55 96.1 464.89 110.27 464.89 110.27 709.47 96.1 709.47 96.1 737.81 110.27 737.81 110.27 744.9 117.36 744.9 117.36 759.07 145.71 759.07 145.71 744.9 390.28 744.9 390.28 759.07 418.63 759.07 418.63 744.9 425.71 744.9 425.71 737.81 439.88 737.81 439.88 709.47 425.71 709.47 425.71 464.89 439.88 464.89" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <polygon points="439.88 388.56 439.88 374.38 425.71 374.38 425.71 374.38 425.71 358.08 110.3 358.08 110.3 374.38 96.13 374.38 96.13 388.56 110.27 388.56 110.27 395.65 96.13 395.65 96.13 429.46 110.3 429.46 117.39 429.46 117.39 415.29 145.73 415.29 145.73 429.46 390.28 429.46 390.28 415.29 418.62 415.29 418.62 429.46 425.71 429.46 439.88 429.46 439.88 395.65 425.71 395.65 425.71 388.56 439.88 388.56" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <polygon points="411.58 216.1 411.58 201.74 411.58 184.63 124.43 184.63 124.43 201.74 124.43 216.1 411.58 216.1" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <polygon points="411.58 170.86 411.58 156.5 411.58 139.39 124.43 139.39 124.43 156.5 124.43 170.86 411.58 170.86" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <polygon points="411.58 261.34 411.58 246.99 411.58 229.87 124.43 229.87 124.43 246.99 124.43 261.34 411.58 261.34" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <g>
+      <rect x="87.77" y="434.61" width="14.17" height="14.17" transform="translate(157.16 864.07) rotate(-180)" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <g>
+        <circle cx="31.84" cy="408.53" r="10.35" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <g>
+          <path d="M64.38,448.55h6.8V764.23h71.66v-7.09H128.67V728.79h14.17V484.22H128.67V455.87h14.17v-7.09H109V428.09A20.69,20.69,0,0,0,88.34,407.4l-22.7-.17" transform="translate(-32.55 -19.33)" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+          <path d="M64.38,407.16c-.31,0-.62,0-.93,0l2.18,0C65.22,407.2,64.81,407.16,64.38,407.16Z" transform="translate(-32.55 -19.33)" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+          <path d="M65.64,407.23l-2.18,0a20.68,20.68,0,0,0,.93,41.34" transform="translate(-32.55 -19.33)" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        </g>
+      </g>
+    </g>
+    <g>
+      <rect x="466.62" y="415.28" width="14.17" height="14.17" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <g>
+        <circle cx="504.17" cy="408.53" r="10.35" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <g>
+          <path d="M536.72,448.55h-6.8V764.23H458.26v-7.09h14.17V728.79H458.26V484.22h14.17V455.87H458.26v-7.09h33.82V428.09a20.69,20.69,0,0,1,20.69-20.69l22.7-.17" transform="translate(-32.55 -19.33)" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+          <path d="M536.72,407.16c.31,0,.62,0,.93,0l-2.18,0C535.88,407.2,536.3,407.16,536.72,407.16Z" transform="translate(-32.55 -19.33)" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+          <path d="M535.47,407.23l2.18,0a20.68,20.68,0,0,1-.93,41.34" transform="translate(-32.55 -19.33)" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        </g>
+      </g>
+    </g>
+    <polygon points="425.72 14.3 425.72 0.13 110.28 0.13 110.28 14.3 96.11 14.3 96.11 28.47 96.11 40.27 96.11 42.65 96.11 329.78 110.28 329.78 110.28 343.91 110.28 343.91 96.11 343.91 96.11 358.08 110.28 358.08 425.72 358.08 439.9 358.08 439.9 343.91 425.72 343.91 425.72 329.78 439.9 329.78 439.9 36 439.9 28.47 439.9 14.3 425.72 14.3" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <polygon points="439.88 805.8 439.88 744.9 418.63 744.9 418.63 759.07 390.28 759.07 390.28 744.9 145.71 744.9 145.71 759.07 117.36 759.07 117.36 744.9 96.13 744.9 96.13 809.19 96.13 809.19 96.13 830.45 110.3 830.45 110.3 816.28 425.71 816.28 425.71 830.45 439.88 830.45 439.88 805.8 439.88 805.8" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <rect x="117.37" y="275.31" width="14.17" height="14.17" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <rect x="117.37" y="111.24" width="14.17" height="14.17" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <rect x="404.46" y="275.31" width="14.17" height="14.17" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <rect x="404.46" y="111.24" width="14.17" height="14.17" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <g>
+      <circle cx="364.81" cy="386.69" r="8.09" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <rect x="378.89" y="394.72" width="36.94" height="22.59" transform="translate(770.82 -10.67) rotate(90)" style="fill: none;stroke: blue;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+  </g>
+  <g id="Parts">
+    <polygon points="439.9 49.66 439.9 63.84 439.9 329.73 447.61 329.73 454.07 329.73 454.07 322.64 511.8 322.64 511.8 308.47 454.07 308.47 454.07 63.84 511.27 63.84 511.27 49.66 454.07 49.66 454.07 42.58 447.61 42.58 439.9 42.58 439.9 49.66" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <polygon points="74.98 231.01 74.98 231.01 74.98 216.84 89.15 216.84 89.15 202.66 74.98 202.66 60.8 202.66 60.8 216.84 51.62 216.84 37.44 216.84 37.44 366.73 51.62 366.73 60.8 366.73 60.8 380.9 74.98 380.9 89.15 380.9 89.15 366.73 74.98 366.73 74.98 352.56 74.98 352.56 60.8 352.56 60.8 231.01 74.98 231.01" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <polygon points="37.66 231.01 37.66 231.01 37.66 216.84 51.83 216.84 51.83 202.66 37.66 202.66 23.49 202.66 23.49 216.84 14.3 216.84 0.13 216.84 0.13 366.73 14.3 366.73 23.49 366.73 23.49 380.9 37.66 380.9 51.83 380.9 51.83 366.73 37.66 366.73 37.66 352.56 37.66 352.56 23.49 352.56 23.49 231.01 37.66 231.01" style="fill: #fff;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    <g>
+      <circle cx="32.59" cy="771.07" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <circle cx="32.59" cy="771.07" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+    <g>
+      <circle cx="79.36" cy="771.07" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <circle cx="79.36" cy="771.07" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+    <g>
+      <circle cx="48.18" cy="771.07" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <circle cx="48.18" cy="771.07" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+    <g>
+      <circle cx="63.77" cy="771.07" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <circle cx="63.77" cy="771.07" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+    <g>
+      <circle cx="32.59" cy="786.67" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <circle cx="32.59" cy="786.67" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+    <g>
+      <circle cx="79.36" cy="786.67" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <circle cx="79.36" cy="786.67" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+    <g>
+      <circle cx="48.18" cy="786.67" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <circle cx="48.18" cy="786.67" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+    <g>
+      <circle cx="63.77" cy="786.67" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      <circle cx="63.77" cy="786.67" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+    </g>
+    <g>
+      <g>
+        <circle cx="32.16" cy="802.26" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <circle cx="32.16" cy="802.26" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      </g>
+      <g>
+        <circle cx="78.93" cy="802.26" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <circle cx="78.93" cy="802.26" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      </g>
+      <g>
+        <circle cx="47.75" cy="802.26" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <circle cx="47.75" cy="802.26" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      </g>
+      <g>
+        <circle cx="63.34" cy="802.26" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <circle cx="63.34" cy="802.26" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      </g>
+      <g>
+        <circle cx="32.16" cy="817.85" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <circle cx="32.16" cy="817.85" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      </g>
+      <g>
+        <circle cx="78.93" cy="817.85" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <circle cx="78.93" cy="817.85" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      </g>
+      <g>
+        <circle cx="47.75" cy="817.85" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <circle cx="47.75" cy="817.85" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      </g>
+      <g>
+        <circle cx="63.34" cy="817.85" r="6.38" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+        <circle cx="63.34" cy="817.85" r="3.54" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+      </g>
+    </g>
+  </g>
+  <g id="Panels">
+    <rect x="647.63" y="21.94" width="288" height="432" rx="18.74" ry="18.74" style="fill: none;stroke: red;stroke-miterlimit: 10;stroke-width: 0.25px"/>
+  </g>
+</svg>
