@@ -1,15 +1,3 @@
-<style>
-img {
-    width: 500;
-    margin: 10px;
-}
-img.rotate {
-     -ms-transform: rotate(90deg);
-    -webkit-transform: rotate(90deg);
-    transform: rotate(90deg);
-}
-</style>
-
 # circuit-python-acrylic-nightlight
 A nightlight I created for my daughter using an adafruit trinket, circuit python, a laser cutter, acrylic, and plywood.
 
@@ -21,6 +9,7 @@ Project complete video: https://vimeo.com/240650785
 <img src="readme_attachments/box-back.jpg" width="500">
 <img src="readme_attachments/wiring.jpg" class="rotate" width="500">
 <img src="readme_attachments/isometric.jpg" class="rotate" width="500">
+_can't figure out a good way of rotating the images here so tilt your head on the last too ;P_
 
 # Shopping list
 - [Adafruit Trinket M0](https://www.adafruit.com/product/3500)
